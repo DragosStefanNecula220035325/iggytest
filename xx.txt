@@ -1,3 +1,7 @@
 dsfjefiwejfiewajfiewajfoeiwafjoiewafjeoiwfjoiewafjoiewafjoiewafjoiewafjewaoifjewaoifjewaoifjewaoijf
+<<<<<<< HEAD
 ifjewaoifjewafoijewafoiewajfoiewajfoiewajfoiewajfoiewajfoiewajfoiewajf
 blah blah blah car blah blah car blah blah blah car
+=======
+ifjewaoifjewafoijewafoiewajfoiewajfoiewajfoiewajfoiewajfoiewajfoiewajfHello this is iggy
+>>>>>>> 2a32c7c0144f2e6fbaba36b8bcbb9188d0319c10
