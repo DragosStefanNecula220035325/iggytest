@@ -1,4 +1,10 @@
 funcition 1{
+    if(x==y){
+        return x;
+    }
+    else{
+        return y;
+    }
     return y;
 }
 
